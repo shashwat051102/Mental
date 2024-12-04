@@ -1,9 +1,11 @@
 pandas
-numpy
+
 streamlit
 Pillow
 scikit-learn
 xgboost
-catboost
+
 matplotlib
 seaborn
+numpy==1.21.0
+catboost==1.0.6
