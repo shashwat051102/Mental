@@ -7,5 +7,6 @@ xgboost
 
 matplotlib
 seaborn
-numpy==1.21.0
-catboost==1.0.6
+numpy==1.23.0
+catboost==1.2.0
+scipy==1.7.3 
